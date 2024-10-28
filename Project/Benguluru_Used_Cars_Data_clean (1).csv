@@ -1,0 +1,598 @@
+,Brand,Model,Year_of_Manufacture,Fuel_Type,KMs_Driven,Location,Car_Age_Category,Price(in_Lakhs)
+0,Mahindra,XUV700 AX 7 Diesel AT AWD Luxury Pack 7 STR,2022,Diesel,29705,Singasandra,New,26.95
+1,Mahindra,XUV500 W7 AT,2018,Diesel,49131,Singasandra,Moderate,13.45
+2,Tata,Nexon XZ Plus Diesel Dark Edition,2022,Diesel,12336,Singasandra,New,12.95
+3,BMW,3 Series 320d Sport Line,2020,Diesel,44244,BTM Layout,Moderate,45.25
+4,Maruti Suzuki,Ertiga ZXi AT,2021,Petrol,8412,Singasandra,Moderate,11.85
+5,Tata,Nexon XMA,2020,Petrol,19361,Singasandra,Moderate,8.75
+6,Maruti Suzuki,Ertiga ZXi AT,2019,Petrol,48486,Singasandra,Moderate,10.45
+7,Tata,Nexon XZA Plus (S),2020,Petrol,35598,Singasandra,Moderate,10.5
+8,Tata,Nexon XM,2017,Petrol,58047,Singasandra,Moderate,6.99
+9,Mahindra,XUV500 W10 AT,2016,Diesel,76840,Singasandra,Old,12.99
+10,Tata,Nexon XZA Plus,2020,Petrol,32901,Singasandra,Moderate,9.95
+11,Maruti Suzuki,Ertiga VXi,2016,Petrol,38289,Singasandra,Old,7.95
+12,Toyota,Fortuner 2.8 4x4 MT,2018,Diesel,51000,Hebbal,Moderate,31.99
+13,Mahindra,XUV500 W10,2015,Diesel,77000,Hebbal,Old,11.7
+14,Tata,Harrier XZ,2019,Diesel,56000,Adugodi,Moderate,14.4
+15,Ford,EcoSport Titanium 1.5L Ti-VCT AT,2016,Petrol,18100,Adugodi,Old,7.29
+16,Volkswagen,Vento Highline 1.2 (P) AT,2019,Petrol,48000,Adugodi,Moderate,9.41
+17,Mahindra,Thar LX Hard Top Diesel MT 4WD,2023,Diesel,19000,Adugodi,New,18.45
+18,Mahindra,XUV700 AX 7 Diesel AT AWD Luxury Pack 7 STR,2023,Diesel,9000,Binnamangala,New,27.25
+19,Mahindra,Thar LX Hard Top Diesel MT 4WD,2023,Diesel,27409,BTM Layout,New,18.0
+20,Ford,EcoSport Titanium 1.5L Ti-VCT AT,2017,Petrol,76000,Adugodi,Moderate,6.99
+21,Honda,City V,2018,Petrol,59497,BTM Layout,Moderate,7.95
+22,BMW,3 Series 320d Sport Line,2020,Diesel,44000,Hebbal,Moderate,41.75
+23,Hyundai,Creta 1.6 SX Plus AT Petrol,2019,Petrol,31000,Hebbal,Moderate,13.75
+24,Mahindra,Thar LX Hard Top Petrol AT,2022,Petrol,20000,Hebbal,New,16.45
+25,Hyundai,Creta 1.6 SX Plus AT Petrol,2019,Petrol,46000,BTM Layout,Moderate,12.45
+26,Maruti Suzuki,Ertiga ZXi AT,2019,Petrol,20000,Hebbal,Moderate,11.45
+27,Toyota,Fortuner 4X4 AT 2.8 Diesel,2022,Diesel,67436,Kengeri Satellite Town,New,40.75
+28,Toyota,Fortuner 4X2 AT 2.8 Diesel,2022,Diesel,55926,Kengeri Satellite Town,New,37.25
+29,Ford,EcoSport Titanium + 1.5L Ti-VCT AT,2020,Petrol,20000,Hebbal,Moderate,10.45
+30,Toyota,Fortuner 2.8 4x2 AT,2020,Diesel,45000,Hebbal,Moderate,37.25
+31,Ford,EcoSport Titanium 1.0 Ecoboost (Opt),2019,Petrol,41000,Adugodi,Moderate,10.1
+32,Tata,Nexon XZA Plus Petrol,2019,Petrol,31557,Bettahalsoor,Moderate,9.6
+33,Renault,Kwid RXT Opt,2021,Petrol,28276,Bettahalsoor,Moderate,4.82
+34,Honda,Brio VX AT,2014,Petrol,10857,Adugodi,Old,5.45
+35,Volkswagen,Polo Comfortline 1.0L (P),2018,Petrol,56080,BTM Layout,Moderate,7.45
+36,Kia,Sonet HTX 1.0 Turbo Petrol iMT,2023,Petrol,5000,Anand Nagar,New,11.75
+37,Mahindra,XUV500 W11(O),2021,Diesel,79000,Hebbal,Moderate,18.75
+38,Honda,Jazz V CVT Petrol,2018,Petrol,40000,Hebbal,Moderate,7.25
+39,Mahindra,Thar LX Hard Top Diesel MT,2022,Diesel,8500,Hebbal,New,17.45
+40,Mahindra,Thar LX Convertible Diesel AT,2020,Diesel,30000,Hebbal,Moderate,17.45
+41,Hyundai,Creta E 1.5 Diesel,2021,Diesel,37000,Anand Nagar,Moderate,14.25
+42,Kia,Seltos HTK Plus 1.5,2019,Petrol,33000,Anand Nagar,Moderate,11.25
+43,Maruti Suzuki,Swift VXi,2012,Petrol,74000,Anand Nagar,Old,4.25
+44,Honda,Jazz V AT Petrol,2018,Petrol,42215,BTM Layout,Moderate,7.25
+45,Honda,Brio S MT,2013,Petrol,26000,Adugodi,Old,3.48
+46,Tata,Nexon XZ Plus (HS) Diesel Dark Edition,2022,Diesel,31035,Banaswadi,New,10.99706
+47,Tata,Nexon XZA Plus (O) Dual Tone,2020,Petrol,45096,Basapura,Moderate,10.28
+48,Hyundai,Alcazar Signature (O) 6 STR 2.0 Petrol AT Dual Tone,2021,Petrol,43667,BTM Layout,Moderate,18.25
+49,Renault,Duster Adventure Edition 85 PS RXL 4X2 MT,2017,Diesel,47008,BTM Layout,Moderate,8.25
+50,Maruti Suzuki,Baleno Delta 1.2,2016,Petrol,34765,BTM Layout,Old,5.99
+51,Hyundai,Tucson GL (O) 2WD AT Diesel,2019,Diesel,69740,Binnamangala,Moderate,18.75
+52,Jeep,Compass Limited (O) 1.4 Petrol AT,2018,Petrol,35149,Binnamangala,Moderate,14.9
+53,Volkswagen,Taigun GT Plus 1.5 TSI DSG,2022,Petrol,27468,Binnamangala,New,17.75
+54,Mahindra,XUV500 W10 AWD AT,2018,Diesel,31847,BTM Layout,Moderate,16.25
+55,Hyundai,Tucson GLS 4WD AT Diesel,2018,Diesel,32629,BTM Layout,Moderate,19.85
+56,Hyundai,i20 Asta (O) 1.2 MT,2020,Petrol,26861,BTM Layout,Moderate,8.25
+57,Tata,Nexon XZA Plus (O),2022,Petrol,13619,Basapura,New,12.6277
+58,Tata,Nexon XZA Plus (O),2020,Petrol,38575,Basapura,Moderate,9.86
+59,Tata,Nexon XZA Plus Petrol,2018,Petrol,24911,Anand Nagar,Moderate,8.95
+60,Renault,Duster 110 PS RxL ADVENTURE,2014,Diesel,92821,Anand Nagar,Old,6.75
+61,Tata,Tiago Revotron XZA,2017,Petrol,42312,BTM Layout,Moderate,5.65
+62,Hyundai,i20 Asta (O) 1.2 MT,2022,Petrol,21771,Anand Nagar,New,9.75
+63,Maruti Suzuki,Baleno RS 1.0,2017,Petrol,43388,Anand Nagar,Moderate,7.75
+64,Volkswagen,Vento Highline Plus 1.0L TSI Automatic,2022,Petrol,29245,Anand Nagar,New,11.25
+65,Maruti Suzuki,Ciaz Alpha Hybrid 1.5,2020,Petrol,38566,Anand Nagar,Moderate,9.45
+66,Maruti Suzuki,XL6 Zeta MT Petrol,2022,Petrol,12165,Bettahalsoor,New,12.21
+67,Maruti Suzuki,S-Presso VXi Plus,2020,Petrol,27076,Bettahalsoor,Moderate,4.98
+68,Maruti Suzuki,Wagon R ZXi 1.2,2019,Petrol,38076,Bettahalsoor,Moderate,5.9
+69,Hyundai,Elite i20 Sportz 1.2,2020,Petrol,18212,Bettahalsoor,Moderate,7.85
+70,Hyundai,Venue SX Plus 1.0 Turbo DCT,2019,Petrol,36183,Bettahalsoor,Moderate,9.49
+71,Hyundai,Grand i10 Magna 1.2 Kappa VTVT,2015,Petrol,67077,Bettahalsoor,Old,4.75
+72,Maruti Suzuki,Vitara Brezza ZXi Plus,2020,Petrol,58782,Bettahalsoor,Moderate,9.25
+73,Hyundai,Grand i10 Nios Magna 1.2 Kappa VTVT,2021,Petrol,34148,Bettahalsoor,Moderate,6.49
+74,Hyundai,Alcazar Signature (O) 6 STR 1.5 Diesel AT,2021,Diesel,48708,Bettahalsoor,Moderate,18.95
+75,Renault,Kiger RXL 1.0 Turbo MT,2021,Petrol,37705,Bettahalsoor,Moderate,7.75
+76,Maruti Suzuki,Dzire ZXi Plus,2017,Petrol,21869,Bettahalsoor,Moderate,6.45
+77,Toyota,Urban Cruiser Hyryder V Hybrid,2023,Hybrid,11613,Bettahalsoor,New,21.49
+78,Tata,Harrier XZ,2019,Diesel,77400,Bettahalsoor,Moderate,13.99
+79,Hyundai,Grand i10 Asta 1.2 Kappa VTVT,2018,Petrol,47378,Bettahalsoor,Moderate,6.25
+80,Hyundai,Grand i10 Magna AT 1.2 Kappa VTVT,2017,Petrol,29885,Bettahalsoor,Moderate,5.75
+81,Renault,Triber RXZ EASY-R AMT Dual Tone,2023,Petrol,5541,Bettahalsoor,New,8.25
+82,Tata,Tiago Revotron XTA,2018,Petrol,50796,Bettahalsoor,Moderate,5.5
+83,Hyundai,i20 Asta (O) 1.2 MT,2021,Petrol,14067,Anand Nagar,Moderate,10.25
+84,Maruti Suzuki,XL6 Zeta MT Petrol,2021,Petrol,45932,Adugodi,Moderate,10.96
+85,Volkswagen,Tiguan Highline TDI,2019,Diesel,67849,Adugodi,Moderate,25.75
+86,Maruti Suzuki,Baleno Alpha Automatic,2019,Petrol,40663,Adugodi,Moderate,7.95
+87,Skoda,Rapid Ambition 1.6 TDI CR MT,2018,Diesel,70925,Adugodi,Moderate,7.75
+88,Hyundai,Verna SX 1.6 CRDi,2019,Diesel,88924,Anand Nagar,Moderate,10.25
+89,Skoda,Rapid Style 1.5 TDI AT,2016,Diesel,68347,BTM Layout,Old,7.95
+90,Tata,Safari XZ Plus New,2022,Diesel,17958,BTM Layout,New,22.95
+91,Mahindra,Alturas G4 4WD AT,2021,Diesel,49582,Singasandra,Moderate,25.95
+92,Mercedes-Benz,A-Class Limousine AMG 35 4MATIC,2022,Petrol,6000,Binnamangala,New,50.9
+93,Mercedes-Benz,AMG A35 4MATIC,2022,Petrol,5000,Binnamangala,New,50.9
+94,MINI,Cooper 1.6,2013,Petrol,29000,Binnamangala,Old,19.25
+95,Mercedes-Benz,GLC Coupe 43 AMG,2018,Petrol,68000,Binnamangala,Moderate,52.9
+96,Mercedes-Benz,GLS Grand Edition Diesel,2018,Diesel,75000,Binnamangala,Moderate,58.75
+97,Audi,Q3 2.0 TDI quattro Premium Plus,2014,Diesel,72000,Binnamangala,Old,13.75
+98,Mitsubishi,Pajero Sport 2.5 AT,2015,Diesel,95000,Binnamangala,Old,13.75
+99,BMW,X3 xDrive-20d xLine,2016,Diesel,92000,Binnamangala,Old,26.5
+100,BMW,X1 sDrive20d Expedition,2019,Diesel,50000,Binnamangala,Moderate,23.25
+101,BMW,3 Series 320d Sport Line,2020,Diesel,44000,Binnamangala,Moderate,40.75
+102,Mitsubishi,Pajero Sport 2.5 AT,2017,Diesel,75000,Binnamangala,Moderate,15.9
+103,Hyundai,Tucson GLS 2WD AT Petrol,2021,Petrol,27000,Binnamangala,Moderate,23.9
+104,MINI,Cooper S 1.6 High,2015,Petrol,36000,Binnamangala,Old,20.5
+105,Mercedes-Benz,GLC 220 d Progressive,2017,Diesel,47000,Binnamangala,Moderate,40.45
+106,Mercedes-Benz,GLC 43 AMG,2018,Petrol,68000,Binnamangala,Moderate,52.9
+107,BMW,2 Series Gran Coupe 220d Sportline,2022,Diesel,15000,Binnamangala,New,36.75
+108,Hyundai,Elite i20 Sportz Plus 1.4 CRDi,2019,Diesel,34401,BTM Layout,Moderate,8.75
+109,Renault,Captur RXE Petrol,2019,Petrol,34692,Singasandra,Moderate,6.95
+110,Toyota,Fortuner 4X2 AT 2.8 Legender,2022,Diesel,44675,Singasandra,New,48.75
+111,Land Rover,Discovery Sport HSE Luxury 7-Seater,2015,Diesel,70000,Binnamangala,Old,29.75
+112,BMW,5 Series 520d Sedan,2016,Diesel,68436,BTM Layout,Old,26.75
+113,BMW,5 Series 530i Sport Line,2021,Petrol,11552,BTM Layout,Moderate,54.75
+114,Mercedes-Benz,E-Class E 220d Expression,2017,Diesel,56272,BTM Layout,Moderate,38.55
+115,BMW,2 Series Gran Coupe 220d M Sport,2022,Diesel,29828,BTM Layout,New,38.95
+116,Mercedes-Benz,C-Class 220 CDI Sport,2014,Diesel,64494,BTM Layout,Old,14.75
+117,BMW,X1 sDrive20d xLine,2020,Diesel,38138,BTM Layout,Moderate,33.75
+118,BMW,X3 xDrive-20d xLine,2015,Diesel,76992,BTM Layout,Old,28.0
+119,Volkswagen,Tiguan Elegance 2.0 TSI DSG,2021,Petrol,35442,BTM Layout,Moderate,31.75
+120,Land Rover,Range Rover Evoque HSE Dynamic Petrol,2018,Petrol,33974,BTM Layout,Moderate,45.75
+121,Land Rover,Range Rover Evoque Pure SD4,2015,Diesel,55188,BTM Layout,Old,31.65
+122,Volkswagen,Jetta Trendline TDI,2013,Diesel,45731,BTM Layout,Old,8.75
+123,Toyota,Camry Hybrid,2021,Hybrid,21400,BTM Layout,Moderate,39.75
+124,Audi,Q3 2.0 TDI Base Grade,2014,Diesel,53000,BTM Layout,Old,13.99
+125,Toyota,Innova Crysta 2.8 ZX AT 7 STR,2019,Diesel,131464,BTM Layout,Moderate,21.75
+126,Toyota,Innova 2.5 G BS IV 7 STR,2015,Diesel,68785,Singasandra,Old,12.45
+127,Kia,Seltos HTX IVT 1.5,2020,Petrol,27410,Singasandra,Moderate,14.75
+128,Renault,Triber RXT EASY-R AMT,2020,Petrol,25779,Singasandra,Moderate,5.99
+129,Volkswagen,Ameo Highline1.2L Plus (P) 16 Alloy,2019,Petrol,21866,Singasandra,Moderate,7.65
+130,Toyota,Corolla Altis 1.8 J,2009,Petrol,76774,Singasandra,Old,3.95
+131,Tata,Harrier XT Plus,2020,Diesel,34873,Singasandra,Moderate,18.45
+132,Volkswagen,T-Roc 1.5 TSI,2020,Petrol,36769,Singasandra,Moderate,19.65
+133,Jeep,Compass Limited Plus Diesel 4x4,2019,Diesel,35356,Singasandra,Moderate,18.65
+134,Hyundai,i20 Sportz 1.2 MT,2021,Petrol,29070,Singasandra,Moderate,7.5
+135,Hyundai,Elantra SX (O) 2.0 AT,2017,Petrol,43476,Singasandra,Moderate,11.99
+136,BMW,5 Series 520d M Sport,2023,Diesel,20560,BTM Layout,New,69.75
+137,Audi,Q3 30 TFSI Premium,2018,Petrol,47720,BTM Layout,Moderate,25.75
+138,Honda,CR-V 2.4 AT,2016,Petrol,60900,BTM Layout,Old,14.85
+139,BMW,X3 xDrive20d Luxury Edition,2022,Diesel,14892,BTM Layout,New,69.99
+140,Audi,A4 2.0 TDI (143 bhp),2012,Diesel,66815,BTM Layout,Old,9.99999
+141,BMW,X1 sDrive20i SportX,2021,Petrol,3366,BTM Layout,Moderate,39.75
+142,Volvo,XC40 D4 R-Design,2018,Diesel,33200,BTM Layout,Moderate,38.99
+143,Hyundai,Grand i10 Nios Sportz 1.2 Kappa VTVT,2022,Petrol,25927,BTM Layout,New,7.35
+144,BMW,3 Series 320d Highline Sedan,2010,Diesel,65150,Binnamangala,Old,8.9
+145,Kia,Sonet HTX 1.5,2022,Diesel,48656,Singasandra,New,11.65
+146,Hyundai,Grand i10 Nios Sportz AMT 1.2 Kappa VTVT,2022,Petrol,16547,Singasandra,New,7.65
+147,Hyundai,i20 Asta (O) 1.2 MT,2020,Petrol,21635,Singasandra,Moderate,8.95
+148,Volkswagen,Vento Comfortline 1.2 (P) AT,2016,Petrol,38000,Singasandra,Old,6.99
+149,Skoda,Slavia Style 1.5L TSI DSG,2023,Petrol,12692,BTM Layout,New,18.75
+150,Maruti Suzuki,Baleno Zeta MT,2022,Petrol,15446,Singasandra,New,8.45
+151,Hyundai,Creta SX (O) 1.5 Diesel Automatic,2020,Diesel,31092,Singasandra,Moderate,17.45
+152,Hyundai,i20 Active 1.2 SX,2016,Petrol,65947,Singasandra,Old,6.45
+153,Volkswagen,Taigun Highline 1.0 TSI AT,2022,Petrol,33834,Singasandra,New,14.45
+154,Hyundai,Creta SX 1.6 AT Petrol,2018,Petrol,40377,Singasandra,Moderate,12.85
+155,Tata,Tigor Revotron XE,2017,Petrol,14854,Singasandra,Moderate,4.99
+156,Skoda,Rapid TSI Active 1.0 TSI MT,2021,Petrol,23300,Singasandra,Moderate,8.95
+157,Honda,City V,2018,Petrol,62905,Singasandra,Moderate,7.99
+158,Skoda,Octavia 1.8 TSI Style Plus AT,2018,Petrol,60184,Singasandra,Moderate,15.85
+159,Hyundai,Creta S Plus 1.4 Turbo DCT Dual Tone,2022,Petrol,20012,Singasandra,New,16.45
+160,Honda,City 4th Generation V CVT Petrol,2017,Petrol,26643,Singasandra,Moderate,8.99
+161,Kia,Carens Luxury Plus 1.4 Petrol DCT 6 STR,2022,Petrol,18085,Singasandra,New,18.4
+162,Hyundai,Verna SX Plus 1.6 VTVT AT,2019,Petrol,79138,Anand Nagar,Moderate,10.75
+163,Audi,Q5 45 TFSI Premium Plus,2018,Petrol,21715,BTM Layout,Moderate,44.75
+164,Mercedes-Benz,GLS 350 d,2018,Diesel,78065,BTM Layout,Moderate,64.75
+165,Toyota,Fortuner Legender 2.8 4X2 AT,2022,Diesel,47905,BTM Layout,New,47.75
+166,Land Rover,Discovery Sport HSE 7-Seater,2018,Diesel,39477,BTM Layout,Moderate,43.75
+167,BMW,X3 xDrive30d,2014,Diesel,67629,BTM Layout,Old,22.5
+168,Hyundai,Alcazar Platinum (O) 6 STR 2.0 Petrol AT,2022,Petrol,21350,Singasandra,New,17.99
+169,Hyundai,Verna SX 1.5 MPi,2021,Petrol,26769,Singasandra,Moderate,11.45
+170,Maruti Suzuki,XL6 Zeta AT Petrol,2020,Petrol,20914,Singasandra,Moderate,10.99
+171,Skoda,Rapid Ambition 1.6 MPI,2017,Petrol,21053,Singasandra,Moderate,7.99
+172,Honda,City 4th Generation ZX CVT Petrol,2020,Petrol,30759,Singasandra,Moderate,13.95
+173,Renault,Kwid 1.0 RXT AMT Opt,2019,Petrol,44610,Singasandra,Moderate,3.99
+174,Hyundai,Grand i10 Nios Magna AMT 1.2 Kappa VTVT,2020,Petrol,33269,Singasandra,Moderate,6.95
+175,Nissan,Kicks XV 1.5,2019,Petrol,19193,Singasandra,Moderate,8.45
+176,Jeep,Compass Model S (O) Diesel 4x4 AT,2023,Diesel,11434,BTM Layout,New,33.75
+177,Ford,Endeavour Titanium 3.2 4x4 AT,2016,Diesel,78311,BTM Layout,Old,26.75
+178,Jeep,Compass Longitude (O) 1.4 Petrol AT,2020,Petrol,12414,Singasandra,Moderate,15.85
+179,Volkswagen,Ameo Highline1.2L (P),2017,Petrol,46397,Singasandra,Moderate,5.99
+180,Skoda,Superb L&K TSI AT,2020,Petrol,25653,Singasandra,Moderate,34.65
+181,BMW,3 Series Gran Limousine 330Li M Sport First Edition,2022,Petrol,19394,Singasandra,New,54.65
+182,Hyundai,Venue SX Plus 1.0 Turbo DCT,2019,Petrol,30156,Singasandra,Moderate,10.95
+183,Jeep,Compass Limited Plus Petrol AT,2019,Petrol,40254,Singasandra,Moderate,15.95
+184,MG,Hector Plus Sharp 1.5 Petrol Turbo CVT 6-STR,2021,Petrol,29808,Singasandra,Moderate,18.45
+185,BMW,X1 sDrive20d Expedition,2017,Diesel,39854,BTM Layout,Moderate,24.85
+186,Kia,Seltos GTX Plus 1.4,2022,Petrol,18460,Singasandra,New,16.85
+187,Hyundai,Grand i10 Magna 1.2 Kappa VTVT,2016,Petrol,50644,Singasandra,Old,4.45
+188,Renault,Triber RXZ,2019,Petrol,25743,Singasandra,Moderate,6.75
+189,Volkswagen,Taigun Comfortline 1.0 TSI MT,2022,Petrol,12697,Singasandra,New,10.85
+190,Hyundai,Elite i20 Era 1.2,2015,Petrol,69442,Singasandra,Old,5.45
+191,Jeep,Compass Limited Plus Petrol AT,2019,Petrol,37925,Singasandra,Moderate,17.85
+192,Volvo,V40 Cross Country D3 Inscription,2017,Diesel,59000,Binnamangala,Moderate,17.25
+193,Tata,Nexon EV XZ Plus LUX,2020,Electric,26896,Singasandra,Moderate,12.99
+194,Skoda,Rapid Ambition 1.6 MPI AT,2018,Petrol,40870,Singasandra,Moderate,7.99
+195,Honda,WR-V VX MT Petrol,2017,Petrol,55889,Singasandra,Moderate,7.75
+196,Toyota,Corolla Altis 1.8 G AT,2014,Petrol,58827,Singasandra,Old,10.75
+197,Renault,Captur Platine Mono Diesel,2020,Diesel,33482,Singasandra,Moderate,8.99
+198,Hyundai,Venue N Line N8 DCT,2023,Petrol,18858,Singasandra,New,14.25
+199,Hyundai,Creta SX 1.4 Turbo 7 DCT,2021,Petrol,23029,Singasandra,Moderate,16.45
+200,Nissan,Terrano XL (P),2017,Petrol,56772,Singasandra,Moderate,6.75
+201,Skoda,Slavia Style 1.0L TSI AT,2022,Petrol,34233,Singasandra,New,14.85
+202,Kia,Seltos GTX 1.4,2020,Petrol,20742,Singasandra,Moderate,14.45
+203,Hyundai,Verna Fluidic 1.6 VTVT SX,2018,Petrol,69020,Anand Nagar,Moderate,8.95
+204,BMW,X3 xDrive20d,2012,Diesel,78500,BTM Layout,Old,19.95
+205,Mercedes-Benz,GLS 350 d,2018,Diesel,32000,BTM Layout,Moderate,74.75
+206,Mercedes-Benz,GLS 400d 4MATIC,2023,Diesel,18000,Hebbal,New,145.0
+207,Maruti Suzuki,Swift VXi,2016,Petrol,43756,Banaswadi,Old,5.49686
+208,Jaguar,XJ L 3.0 V6 Portfolio,2014,Diesel,69000,Hebbal,Old,28.0
+209,BMW,X7 xDrive40d M Sport,2023,Mild Hybrid (Electric + Diesel),11000,Hebbal,New,143.75
+210,BMW,5 Series 520d Luxury Line,2020,Diesel,61000,Hebbal,Moderate,42.0
+211,Ford,Endeavour Titanium Plus 3.2 4x4 AT,2019,Diesel,63000,Hebbal,Moderate,36.75
+212,Maruti Suzuki,Swift VXi AMT,2023,Petrol,13994,Basapura,New,7.63
+213,Jaguar,XF Prestige Diesel CBU,2017,Diesel,47000,Hebbal,Moderate,33.0
+214,Maruti Suzuki,Baleno Zeta 1.2,2015,Petrol,72978,Basapura,Old,5.57
+215,Jeep,Wrangler Rubicon,2022,Petrol,15000,Hebbal,New,70.0
+216,Mercedes-Benz,GLS 450 4MATIC,2022,Petrol,54000,Hebbal,New,103.0
+217,Maruti Suzuki,Baleno Zeta 1.2 AT,2017,Petrol,23000,Hebbal,Moderate,7.25
+218,Jaguar,XF 2.2 Diesel,2013,Diesel,35000,Hebbal,Old,17.45
+219,Hyundai,Grand i10 Asta AT 1.2 Kappa VTVT,2016,Petrol,35000,Hebbal,Old,5.75
+220,Kia,Seltos HTK Plus 1.5 Diesel AT,2021,Diesel,21000,Hebbal,Moderate,17.45
+221,Audi,A4 2.0 TDI (143 bhp),2012,Diesel,86000,Hebbal,Old,11.45
+222,Honda,Jazz V AT Petrol,2017,Petrol,45000,Hebbal,Moderate,6.75
+223,Land Rover,Discovery Sport HSE 7-Seater,2018,Diesel,62000,Hebbal,Moderate,39.95
+224,Ford,EcoSport Titanium 1.0 Ecoboost,2015,Petrol,46000,Hebbal,Old,5.73
+225,Audi,Q7 45 TDI Technology Pack,2020,Diesel,34000,Hebbal,Moderate,61.5
+226,Volkswagen,Polo Comfortline 1.2L (P),2018,Petrol,18000,Hebbal,Moderate,6.75
+227,Toyota,Innova Crysta 2.4 VX 8 STR,2019,Diesel,111000,Hebbal,Moderate,20.95
+228,Audi,A4 2.0 TDI (177bhp) Premium Plus,2014,Diesel,89000,Hebbal,Old,14.45
+229,Maruti Suzuki,Ertiga ZDI + SHVS,2016,Diesel,92000,Hebbal,Old,8.25
+230,Honda,Jazz VX Petrol,2015,Petrol,36000,Hebbal,Old,5.5
+231,Hyundai,i20 Asta (O) 1.2 MT,2021,Petrol,14000,Hebbal,Moderate,9.75
+232,Volkswagen,Tiguan AllSpace 2.0 TSI,2021,Petrol + 1,25000,Hebbal,Moderate,29.75
+233,BMW,5 Series 520d Sedan,2014,Diesel,67000,Hebbal,Old,27.5
+234,Hyundai,Verna Fluidic 1.6 VTVT SX Opt AT,2013,Petrol,72000,Hebbal,Old,5.95
+235,Hyundai,i20 Asta (O) 1.0 Turbo DCT,2021,Petrol,14000,Hebbal,Moderate,11.73
+236,BMW,X5 xDrive 30d,2017,Diesel,55000,Hebbal,Moderate,46.0
+237,Mercedes-Benz,S-Class (W222) S 350D,2018,Diesel,32000,Hebbal,Moderate,80.92
+238,Mercedes-Benz,GLE 300d 4MATIC LWB,2023,Diesel,9000,Hebbal,New,92.49
+239,Mahindra,TUV300 T8,2018,Diesel,25800,Singasandra,Moderate,8.6
+240,Kia,Seltos GTX Plus 1.4 DCT,2020,Petrol,33455,Singasandra,Moderate,16.25
+241,Hyundai,Creta E Plus 1.6 Petrol,2016,Petrol,62490,Singasandra,Old,8.45
+242,Tata,Safari XZA Plus 6S,2021,Diesel,56208,Singasandra,Moderate,19.45
+243,Jeep,Compass Model S (O) Diesel 4x4 AT,2021,Diesel,38355,Singasandra,Moderate,27.65
+244,Maruti Suzuki,Swift ZXi,2014,Petrol,41175,Basapura,Old,5.16
+245,Renault,Kwid CLIMBER 1.0 AMT,2021,Petrol,29584,Basapura,Moderate,5.3876
+246,Honda,Jazz V AT Petrol,2015,Petrol,48627,Banaswadi,Old,5.41
+247,Tata,Tiago Revotron XZA Plus,2021,Petrol,30711,Banaswadi,Moderate,6.91
+248,Mercedes-Benz,B-Class B180 CDI,2014,Diesel,52531,BTM Layout,Old,9.99999
+249,Renault,Kwid RXT Opt,2020,Petrol,27782,Banaswadi,Moderate,4.82891
+250,Volkswagen,Tiguan Highline TDI,2019,Diesel,65000,Hebbal,Moderate,25.99
+251,Maruti Suzuki,Swift ZXi Plus AMT Dual Tone,2021,Petrol,46325,Banaswadi,Moderate,8.41
+252,Jeep,Meridian Limited (O) 4X2 AT,2023,Diesel,25905,Singasandra,New,33.75
+253,Mahindra,Marazzo M8 7 STR,2018,Diesel,57660,Singasandra,Moderate,10.95
+254,Honda,Brio EX MT,2013,Petrol,55685,Basapura,Old,3.1775
+255,Maruti Suzuki,Wagon R 1.0 VXI,2016,Petrol,30478,Basapura,Old,4.0758
+256,Volkswagen,Polo Trendline 1.0L MPI,2021,Petrol,67415,Banaswadi,Moderate,6.05954
+257,Tata,Nexon XZA Plus Diesel,2018,Diesel,63671,Basapura,Moderate,8.72
+258,Ford,EcoSport Titanium + 1.5L Ti-VCT AT,2018,Petrol,46089,Basapura,Moderate,8.16924
+259,Maruti Suzuki,Ertiga ZXi AT,2022,Petrol,29126,Basapura,New,11.67367
+260,Ford,EcoSport Titanium 1.5L Ti-VCT,2016,Petrol,71617,Basapura,Old,6.25239
+261,Tata,Nexon XZA Plus Petrol Dual Tone,2020,Petrol,59565,Basapura,Moderate,8.79
+262,Hyundai,Eon 1.0 Kappa Magna +,2015,Petrol,46268,Banaswadi,Old,3.07544
+263,Hyundai,Tucson Signature 2.0 AT Petrol,2023,Petrol,7000,Adugodi,New,32.99
+264,Maruti Suzuki,Swift ZXi Plus,2021,Petrol,22608,Banaswadi,Moderate,7.54399
+265,Tata,Nexon XZ Plus,2020,Petrol,67069,Basapura,Moderate,8.17
+266,Tata,Harrier XZA Plus,2020,Diesel,68859,Basapura,Moderate,16.33
+267,Mahindra,Thar LX Hard Top Petrol AT,2021,Petrol,31529,Basapura,Moderate,13.88
+268,Mahindra,XUV500 W11 AT,2020,Diesel,59594,Basapura,Moderate,15.35
+269,Maruti Suzuki,Ertiga ZDi,2015,Diesel,57858,Basapura,Old,7.86624
+270,Mahindra,XUV300 W6 1.2 Petrol,2023,Petrol,10190,Basapura,New,9.85
+271,Tata,Nexon XZ Plus Dual Tone,2020,Petrol,45321,Basapura,Moderate,8.59
+272,Tata,Nexon XZ Plus Dual Tone,2018,Petrol,71477,Basapura,Moderate,8.0269
+273,Mahindra,XUV500 W5,2018,Diesel,65276,Singasandra,Moderate,11.25
+274,Toyota,Innova Crysta ZX 2.4 AT 7 STR,2021,Diesel,52304,Singasandra,Moderate,27.85
+275,Hyundai,Tucson GLS 2WD AT Petrol,2019,Petrol,35475,Singasandra,Moderate,18.95
+276,Hyundai,Creta SX (O) 1.4 Turbo 7 DCT,2022,Petrol,11000,Adugodi,New,19.59
+277,Skoda,Kushaq Style 1.5L TSI DSG,2021,Petrol,25000,Adugodi,Moderate,15.75
+278,Maruti Suzuki,Swift ZXi AMT,2018,Petrol,29879,Basapura,Moderate,6.45
+279,BMW,5 Series 530d M Sport,2018,Diesel,34000,Adugodi,Moderate,44.45
+280,MG,Hector Plus Savvy Pro 1.5 Turbo Petrol CVT 6 STR,2023,Petrol,3350,Adugodi,New,23.41
+281,Volkswagen,GTI 1.8 TSI,2018,Petrol,95000,Adugodi,Moderate,19.75
+282,Jeep,Meridian Limited (O) 4X4 AT,2023,Diesel,16400,Adugodi,New,36.49
+283,Toyota,Fortuner 3.0 4x2 AT,2012,Diesel,140000,Adugodi,Old,14.49
+284,Honda,City 1.5 V AT,2012,Petrol,110900,Adugodi,Old,4.86
+285,Honda,Jazz S MT,2019,Petrol,22789,Banaswadi,Moderate,6.92
+286,BMW,X1 sDrive18d M Sport,2023,Diesel,6250,Adugodi,New,54.75
+287,BMW,3 Series GT 320d Luxury Line,2015,Diesel,109000,Adugodi,Old,20.5
+288,BMW,X4 xDrive30d M Sport X,2020,Diesel,57000,Adugodi,Moderate,56.25
+289,Honda,Jazz ZX,2020,Petrol,43340,Basapura,Moderate,7.94321
+290,Hyundai,Elantra 1.6 SX MT,2012,Diesel,59900,Adugodi,Old,6.21
+291,Toyota,Innova Crysta 2.8 GX AT 7 STR,2019,Diesel,89000,Adugodi,Moderate,21.21
+292,Hyundai,Alcazar Platinum (O) 6 STR 1.5 Diesel AT,2021,Diesel,22000,Adugodi,Moderate,19.45
+293,Jeep,Compass Limited Plus Diesel,2019,Diesel,58000,Adugodi,Moderate,16.66
+294,Skoda,Kodiaq Style 2.0 TDI 4x4 AT,2019,Diesel,75000,Adugodi,Moderate,27.75
+295,Tata,Harrier XZA Dual Tone,2021,Diesel,95000,Adugodi,Moderate,15.71
+296,Maruti Suzuki,Swift VXi,2015,Petrol,34717,Banaswadi,Old,5.45741
+297,Hyundai,Verna Fluidic 1.6 VTVT SX AT,2014,Petrol,22395,BTM Layout,Old,6.65
+298,Jaguar,XF 3.0 V6 Premium Luxury,2012,Diesel,77000,Hebbal,Old,15.5
+299,Toyota,Vellfire Hybrid,2020,Hybrid,88000,Hebbal,Moderate,88.0
+300,Mercedes-Benz,E-Class E 220d Exclusive,2021,Diesel,24000,Hebbal,Moderate,69.0
+301,Mercedes-Benz,GLS 400d 4MATIC,2020,Diesel,27000,Hebbal,Moderate,111.75
+302,Volvo,XC90 D5 Inscription,2016,Diesel,69000,Hebbal,Old,43.5
+303,Kia,Carnival Prestige 7 STR,2020,Diesel,60000,Hebbal,Moderate,29.75
+304,Mercedes-Benz,GLS Grand Edition Diesel,2019,Diesel,108000,Hebbal,Moderate,66.7
+305,Toyota,Fortuner 3.0 4x2 MT,2014,Diesel,177000,Hebbal,Old,12.45
+306,Mercedes-Benz,GLS Grand Edition Diesel,2020,Diesel,59000,Hebbal,Moderate,74.95
+307,Audi,Q5 35 TDI Premium Plus,2018,Diesel,81000,Hebbal,Moderate,34.95
+308,Hyundai,Grand i10 Nios Sportz 1.2 Kappa VTVT Dual Tone,2019,Petrol,29705,Singasandra,Moderate,6.45
+309,Tata,Tiago XZ Plus,2022,Petrol,5475,Singasandra,New,6.99
+310,Kia,Carnival Limousine Plus 7 STR,2021,Diesel,24000,Hebbal,Moderate,31.95
+311,Skoda,Laura Ambiente 1.9 TDI MT,2010,Diesel,91000,Binnamangala,Old,3.45
+312,BMW,X7 xDrive30d DPE Signature,2020,Diesel,59000,Hebbal,Moderate,83.5
+313,Mercedes-Benz,GL 350 CDI,2014,Diesel,103423,Adugodi,Old,34.0
+314,Land Rover,Defender 110 HSE 2.0 Petrol,2023,Petrol,9000,Hebbal,New,123.0
+315,Hyundai,Alcazar Signature (O) 6 STR 1.5 Diesel AT,2021,Diesel,24851,Adugodi,Moderate,18.68
+316,Mercedes-Benz,M-Class ML 250 CDI,2015,Diesel,120000,Hebbal,Old,22.75
+317,Hyundai,Venue S (O) 1.0 Turbo DCT,2022,Petrol,30000,Adugodi,New,11.19
+318,Hyundai,Alcazar Signature (O) 6 STR 1.5 Diesel AT,2021,Diesel,24000,Adugodi,Moderate,18.68
+319,Jeep,Compass Limited Plus Petrol AT,2019,Petrol,61000,Adugodi,Moderate,14.95
+320,Ford,Endeavour Sport 2.0 4x4 AT,2020,Diesel,78000,Hebbal,Moderate,33.95
+321,Maruti Suzuki,Swift ZXi Plus,2018,Petrol,64747,Banaswadi,Moderate,6.9
+322,Porsche,Cayenne S Diesel,2017,Diesel,40645,BTM Layout,Moderate,105.0
+323,Audi,Q5 30 TDI Sports Edition,2016,Diesel,138991,BTM Layout,Old,26.5
+324,Honda,Brio V MT,2012,Petrol,54612,BTM Layout,Old,3.8
+325,Audi,Q3 35 TDI Premium Plus + Sunroof,2017,Diesel,56576,BTM Layout,Moderate,24.75
+326,MINI,Countryman Cooper D,2019,Diesel,53000,Hebbal,Moderate,33.0
+327,Mercedes-Benz,GLS 350 d,2017,Diesel,49000,Hebbal,Moderate,57.5
+328,Porsche,Cayenne Base,2019,Petrol,70000,Hebbal,Moderate,89.0
+329,Toyota,Fortuner 3.0 4x4 AT,2015,Diesel,88000,Hebbal,Old,19.75
+330,Toyota,Fortuner Legender 2.8 4X2 AT,2022,Diesel,47000,Hebbal,New,47.5
+331,Mercedes-Benz,C-Class C 220 CDI Avantgarde,2015,Diesel,91000,Hebbal,Old,22.5
+332,Audi,Q5 2.0 TDI quattro Premium Plus,2014,Diesel,94000,Hebbal,Old,20.95
+333,Mercedes-Benz,GLC 220 d Progressive,2017,Diesel,75000,Hebbal,Moderate,32.5
+334,Volvo,XC40 D4 R-Design,2019,Diesel,41000,BTM Layout,Moderate,37.49
+335,Audi,Q7 4.2 TDI quattro,2014,Diesel,52706,Adugodi,Old,26.26
+336,Toyota,Innova Crysta 2.4 VX 7 STR,2017,Diesel,210000,Hebbal,Moderate,17.45
+337,Skoda,Laura Ambition 1.8 TSI,2009,Petrol,100500,Binnamangala,Old,4.9
+338,Kia,Carnival Limousine Plus 7 STR,2023,Diesel,59000,Hebbal,New,37.25
+339,Kia,Seltos GTX Plus 1.4 DCT,2022,Petrol,6000,Adugodi,New,17.41
+340,Renault,Kwid 1.0 RXT Opt,2020,Petrol,19574,Banaswadi,Moderate,4.69
+341,BMW,X5 xDrive30d xLine,2024,Diesel,9000,Hebbal,New,105.0
+342,BMW,X1 sDrive20d xLine,2021,Diesel,20550,BTM Layout,Moderate,36.76
+343,BMW,5 Series 530d M Sport,2021,Diesel,39000,Hebbal,Moderate,58.5
+344,Mercedes-Benz,GLE 250 d,2018,Diesel,96000,Hebbal,Moderate,41.0
+345,Mercedes-Benz,GLC 220 d Sport,2018,Diesel,52000,Hebbal,Moderate,38.5
+346,Maruti Suzuki,Celerio VXi AMT,2014,Petrol,60132,BTM Layout,Old,4.25
+347,Mitsubishi,Pajero Sport 2.5 MT,2013,Diesel,85688,BTM Layout,Old,11.45
+348,Mercedes-Benz,E-Class E220 CDI Blue Efficiency,2013,Diesel,60000,BTM Layout,Old,15.85
+349,Toyota,Innova Hycross ZX (O) Hybrid 7 STR,2023,Hybrid,19000,Hebbal,New,36.45
+350,Maruti Suzuki,XL6 Zeta MT Petrol,2021,Petrol,80350,Hebbal,Moderate,10.25
+351,Toyota,Fortuner 2.8 4x4 AT,2018,Diesel,215000,Hebbal,Moderate,28.5
+352,Skoda,Kushaq Style 1.0L TSI MT,2022,Petrol,20000,Hebbal,New,16.95
+353,MG,Astor Savvy 1.3 Turbo AT S Red,2022,Petrol,25000,Hebbal,New,16.75
+354,BMW,X5 xDrive 30d,2015,Diesel,75000,Hebbal,Old,41.45
+355,Toyota,Vellfire Hybrid,2020,Hybrid,88000,Hebbal,Moderate,89.0
+356,BMW,X1 sDrive20d xLine,2020,Diesel,40000,Hebbal,Moderate,36.45
+357,Toyota,Etios Liva VX Dual Tone,2018,Petrol,67656,Kengeri Satellite Town,Moderate,7.5
+358,Toyota,Glanza G E-CNG,2023,CNG,8198,Kengeri Satellite Town,New,9.25
+359,Toyota,Urban Cruiser Hyryder V NeoDrive,2022,Mild Hybrid(Electric + Petrol),9479,Kengeri Satellite Town,New,16.15
+360,Toyota,Urban Cruiser Hyryder V Hybrid,2023,Hybrid,26654,Kengeri Satellite Town,New,19.5
+361,Toyota,Glanza V AMT,2023,Petrol,11070,Kengeri Satellite Town,New,9.6
+362,Toyota,Innova Crysta 2.4 VX 8 STR,2018,Diesel,82947,Kengeri Satellite Town,Moderate,19.75
+363,Toyota,Urban Cruiser Hyryder V Hybrid,2023,Hybrid,31442,Kengeri Satellite Town,New,19.5
+364,Toyota,Urban Cruiser Hyryder V Hybrid,2022,Hybrid,17582,Kengeri Satellite Town,New,19.25
+365,Toyota,Fortuner Legender 2.8 4X4 AT,2022,Diesel,30483,Kengeri Satellite Town,New,47.0
+366,Toyota,Urban Cruiser Hyryder V Hybrid,2023,Hybrid,20206,Kengeri Satellite Town,New,19.75
+367,Toyota,Urban Cruiser Hyryder V AWD NeoDrive,2022,Mild Hybrid(Electric + Petrol),25283,Kengeri Satellite Town,New,16.15
+368,Land Rover,Range Rover Evoque SE R-Dynamic Petrol,2021,Petrol,20000,Hebbal,Moderate,58.25
+369,Hyundai,Verna 1.6 CRDI SX,2016,Diesel,72000,Hebbal,Old,7.25
+370,Toyota,Innova Crysta 2.4 ZX 7 STR,2019,Diesel,63980,Kengeri Satellite Town,Moderate,20.0
+371,Toyota,Innova Crysta ZX 2.7 AT 7 STR,2022,Petrol,29067,Kengeri Satellite Town,New,22.75
+372,Toyota,Innova Crysta 2.8 GX AT 7 STR,2018,Diesel,76676,Kengeri Satellite Town,Moderate,20.5
+373,BMW,X1 sDrive20d xLine,2016,Diesel,80000,Hebbal,Old,22.99
+374,Hyundai,Grand i10 Sportz 1.2 Kappa VTVT,2014,Petrol,76000,Hebbal,Old,4.1
+375,Toyota,Urban Cruiser Hyryder V AWD NeoDrive,2022,Mild Hybrid(Electric + Petrol),14814,Kengeri Satellite Town,New,17.5
+376,Jeep,Meridian Limited (O) 4X2 AT,2023,Diesel,19000,Binnamangala,New,36.25
+377,Toyota,Innova Hycross VX (O) Hybrid 7 STR,2023,Hybrid,14374,Kengeri Satellite Town,New,31.75
+378,Volvo,XC60 Inscription,2019,Diesel,108824,BTM Layout,Moderate,36.75
+379,Land Rover,Range Rover Sport SDV6 SE,2018,Diesel,99000,Hebbal,Moderate,75.0
+380,Volkswagen,Polo GT TSI Sport,2019,Petrol,57000,Hebbal,Moderate,10.75
+381,Mahindra,Thar LX Hard Top Petrol AT,2021,Petrol,35000,Adugodi,Moderate,14.1
+382,Kia,Sonet GTX Plus 1.5,2021,Diesel,25000,Adugodi,Moderate,13.45
+383,Tata,Safari Storme 2.2 VX 4x2,2015,Diesel,67000,Adugodi,Old,7.95
+384,Hyundai,Grand i10 Sportz (O) AT 1.2 Kappa VTVT,2018,Petrol,58000,BTM Layout,Moderate,5.65
+385,Porsche,Panamera 3.0 Diesel,2013,Diesel,30000,Hebbal,Old,34.0
+386,Mercedes-Benz,S-Class (W222) S 350D,2015,Diesel,51000,Hebbal,Old,53.0
+387,BMW,X5 xDrive 30d,2015,Diesel,68000,Hebbal,Old,38.75
+388,BMW,3 Series 320d Sport Line,2020,Diesel,33000,Hebbal,Moderate,39.75
+389,BMW,5 Series 520d Sport Line,2018,Diesel,59000,Hebbal,Moderate,42.5
+390,Jaguar,F-Pace Prestige,2019,Diesel,39000,Hebbal,Moderate,42.0
+391,Mercedes-Benz,E-Class E 200 Exclusive,2022,Petrol,15000,Hebbal,New,67.5
+392,Audi,Q5 2.0 TDI quattro Premium Plus,2019,Diesel,49000,Hebbal,Moderate,42.5
+393,Toyota,Innova Crysta 2.8 ZX AT 7 STR,2017,Diesel,72000,Hebbal,Moderate,20.75
+394,Ford,EcoSport Titanium 1.5 TDCi (Opt),2014,Diesel,69000,Hebbal,Old,5.75
+395,Volkswagen,Tiguan AllSpace 2.0 TSI,2021,Petrol,35000,Hebbal,Moderate,29.75
+396,Audi,Q3 35 TDI Premium + Sunroof,2016,Diesel,109881,Hebbal,Old,19.45
+397,Volvo,XC40 D4 R-Design,2019,Diesel,39000,Hebbal,Moderate,36.75
+398,BMW,X1 sDrive20d xLine,2018,Diesel,50000,Hebbal,Moderate,30.45
+399,BMW,5 Series 530i M Sport,2022,Petrol,25000,Hebbal,New,64.95
+400,Mercedes-Benz,GLS 350 d,2018,Diesel,70000,Hebbal,Moderate,70.95
+401,Toyota,Innova Hycross ZX Hybrid 7 STR,2023,Hybrid,20000,Hebbal,New,36.5
+402,BMW,X4 xDrive30d M Sport X,2020,Diesel,55000,Hebbal,Moderate,58.85
+403,BMW,5 Series 520d Sedan,2012,Diesel,73000,Hebbal,Old,14.75
+404,Audi,Q7 3.0 TDI quattro Premium Plus,2015,Diesel,64000,Hebbal,Old,28.95
+405,Hyundai,i20 Active 1.2 SX,2017,Petrol,49000,Hebbal,Moderate,7.25
+406,Volvo,XC90 D5 Inscription,2019,Diesel,60000,Hebbal,Moderate,67.0
+407,Nissan,Micra Active XV,2016,Petrol,23625,Bettahalsoor,Old,3.79
+408,Nissan,Micra XV CVT,2014,Petrol,48030,Bettahalsoor,Old,4.6
+409,Honda,City 1.5 V MT,2010,Petrol,121489,Bettahalsoor,Old,4.1
+410,Honda,City 1.5 V MT,2013,Petrol,57017,Bettahalsoor,Old,5.49
+411,Maruti Suzuki,SX4 ZXi,2008,Petrol,78345,Bettahalsoor,Old,2.5
+412,Hyundai,i20 Sportz (AT) 1.4,2013,Petrol,55870,Bettahalsoor,Old,4.45
+413,Datsun,redi-GO T (O),2016,Petrol,37825,Bettahalsoor,Old,3.2
+414,Renault,Captur Platine Diesel Dual Tone,2017,Diesel,92863,Bettahalsoor,Moderate,7.49
+415,Hyundai,Grand i10 Asta AT 1.2 Kappa VTVT,2016,Petrol,42172,Bettahalsoor,Old,5.35
+416,Maruti Suzuki,Vitara Brezza ZDi AGS,2018,Diesel,93378,Bettahalsoor,Moderate,10.25
+417,Honda,City S Diesel,2014,Diesel,71794,Bettahalsoor,Old,6.5
+418,Honda,Brio S MT,2015,Petrol,53526,Bettahalsoor,Old,4.49
+419,Hyundai,Grand i10 Nios Asta 1.2 Kappa VTVT,2021,Petrol,28950,Bettahalsoor,Moderate,7.4
+420,Toyota,Innova Crysta 2.4 G 7 STR,2017,Diesel,88117,Kengeri Satellite Town,Moderate,17.75
+421,Mercedes-Benz,E-Class E 220d Exclusive,2019,Diesel,42000,Hebbal,Moderate,45.75
+422,Toyota,Glanza V AMT,2023,Petrol,27770,Kengeri Satellite Town,New,9.6
+423,Toyota,Urban Cruiser Hyryder V AT NeoDrive,2022,Mild Hybrid(Electric + Petrol),9761,Kengeri Satellite Town,New,17.35
+424,Toyota,Urban Cruiser Hyryder V AWD NeoDrive,2022,Mild Hybrid(Electric + Petrol),19214,Kengeri Satellite Town,New,16.35
+425,Toyota,Innova Crysta 2.4 VX 8 STR,2017,Diesel,127471,Kengeri Satellite Town,Moderate,19.0
+426,Maruti Suzuki,Baleno Delta 1.2,2021,Petrol,33000,Hebbal,Moderate,7.25
+427,BMW,3 Series 320d Touring,2013,Diesel,59827,Bettahalsoor,Old,11.49
+428,Honda,BR-V V CVT Petrol,2016,Petrol,90764,Bettahalsoor,Old,7.79
+429,Ford,EcoSport Titanium 1.5L Ti-VCT AT,2015,Petrol,47496,Bettahalsoor,Old,6.25
+430,Skoda,Rapid TSI Active 1.0 TSI MT,2021,Petrol,20000,Hebbal,Moderate,9.5
+431,Toyota,Urban Cruiser Hyryder V Hybrid,2022,Hybrid,15103,Kengeri Satellite Town,New,19.25
+432,Kia,Carnival Limousine Plus 7 STR,2023,Diesel,18000,Hebbal,New,37.95
+433,MINI,Cooper Countryman Cooper S,2013,Petrol,69000,BTM Layout,Old,16.55
+434,Hyundai,Creta SX Plus 1.6  Petrol,2015,Petrol,66000,Hebbal,Old,8.25
+435,Volkswagen,Polo Comfortline 1.2L (D),2014,Diesel,88000,Hebbal,Old,5.35
+436,Tata,Safari XZA Plus,2021,Diesel,14768,Bettahalsoor,Moderate,19.0
+437,Audi,Q3 35 TDI quattro Premium Plus,2018,Diesel,26000,Hebbal,Moderate,28.45
+438,Audi,Q7 3.0 TDI quattro Premium Plus,2014,Diesel,127000,Hebbal,Old,19.5
+439,BMW,5 Series 520d Luxury Line,2017,Diesel,39000,Hebbal,Moderate,39.0
+440,Kia,Seltos HTX 1.5,2020,Petrol,44010,Bettahalsoor,Moderate,12.72
+441,Maruti Suzuki,Ertiga ZDI + SHVS,2015,Diesel,81000,Hebbal,Old,7.95
+442,Tata,Nexon EV XZ Plus,2022,Electric,21617,Bettahalsoor,New,13.0
+443,Mahindra,Thar LX Hard Top Petrol AT,2022,Petrol,21700,Adugodi,New,14.39
+444,Jeep,Wrangler Rubicon,2023,Petrol,18000,Hebbal,New,69.75
+445,Mercedes-Benz,A-Class A 180 CDI Style,2015,Diesel,56000,Adugodi,Old,15.64
+446,BMW,X3 xDrive 20d Luxury Line,2020,Diesel,58000,Hebbal,Moderate,54.0
+447,Mercedes-Benz,GLS 350 d,2018,Diesel,77000,Hebbal,Moderate,67.0
+448,Mercedes-Benz,GLS 350 d,2016,Diesel,60000,Hebbal,Old,54.0
+449,Honda,City V Diesel,2016,Diesel,50000,Anand Nagar,Old,6.5
+450,Audi,Q3 35 TDI quattro Premium Plus,2018,Diesel,92000,Hebbal,Moderate,22.0
+451,Toyota,Innova Crysta ZX 2.7 AT 7 STR,2022,Petrol,24000,Hebbal,New,24.75
+452,MG,Hector Sharp 2.0 Diesel,2021,Diesel,20000,Hebbal,Moderate,19.95
+453,Jaguar,XF 2.2 Diesel,2013,Diesel,59000,Hebbal,Old,17.45
+454,BMW,X3 xDrive-20d xLine,2015,Diesel,97000,Hebbal,Old,25.35
+455,Land Rover,Discovery Sport HSE Luxury,2017,Diesel,31000,Hebbal,Moderate,42.45
+456,Kia,Seltos HTX Plus 1.5 Diesel,2020,Diesel,58000,Anand Nagar,Moderate,17.25
+457,Toyota,Fortuner 4X4 MT 2.8 Diesel,2022,Diesel,81000,Hebbal,New,39.75
+458,Maruti Suzuki,Grand Vitara Zeta Smart Hybrid,2023,Mild Hybrid(Electric + Petrol),15000,Adugodi,New,15.25
+459,Mahindra,Bolero SLX 2WD,2019,Diesel,126000,Adugodi,Moderate,7.9
+460,Maruti Suzuki,Swift VXi,2016,Petrol,69995,Basapura,Old,5.35547
+461,Hyundai,Creta SX (O) 1.5 Diesel,2021,Diesel,83000,Anand Nagar,Moderate,16.95
+462,BMW,X3 xDrive 30i Luxury Line,2018,Petrol,72000,Hebbal,Moderate,41.0
+463,Jaguar,XF 3.0 V6 S Premium Luxury,2012,Diesel,65000,Hebbal,Old,13.25
+464,Hyundai,i10 Sportz 1.2 AT Kappa2,2011,Petrol,81000,Anand Nagar,Old,3.85
+465,Mercedes-Benz,GL 350 CDI,2015,Diesel,110000,Hebbal,Old,38.0
+466,Toyota,Innova Hycross ZX Hybrid 7 STR,2023,Hybrid,20428,BTM Layout,New,37.0
+467,Hyundai,Venue SX (O) 1.0 Turbo iMT,2022,Petrol,18000,Hebbal,New,13.25
+468,Hyundai,Verna 1.6 CRDI SX (O),2018,Diesel,85000,Hebbal,Moderate,11.92
+469,Hyundai,Elite i20 Sportz 1.2,2018,Petrol,19000,Hebbal,Moderate,7.23
+470,Hyundai,Creta SX Plus 1.6  Petrol,2019,Petrol,92000,Hebbal,Moderate,11.1
+471,Volkswagen,Vento Highline Diesel AT,2015,Diesel,86000,Hebbal,Old,6.92
+472,Audi,Q5 2.0 TDI quattro Premium,2015,Diesel,71000,Hebbal,Old,22.42
+473,Hyundai,Verna Fluidic 1.6 VTVT SX,2015,Petrol,77000,Anand Nagar,Old,6.5
+474,Hyundai,Grand i10 Sportz (O) AT 1.2 Kappa VTVT,2017,Petrol,46000,Anand Nagar,Moderate,5.85
+475,Renault,Duster RXS CVT,2018,Petrol,27000,Adugodi,Moderate,7.6
+476,Volvo,XC40 D4 R-Design,2019,Diesel,40200,Adugodi,Moderate,37.0
+477,Mercedes-Benz,GLE 350 d,2017,Diesel,89000,Adugodi,Moderate,45.21
+478,Mercedes-Benz,GLA 200 CDI Sport,2015,Diesel,100000,Hebbal,Old,16.5
+479,Mahindra,XUV500 W11 AT,2019,Diesel,79000,Anand Nagar,Moderate,16.5
+480,Toyota,Innova Crysta 2.4 ZX AT 7 STR,2020,Diesel,83000,Hebbal,Moderate,27.5
+481,Mahindra,XUV300 W6 1.2 Petrol AMT,2022,Petrol,23000,BTM Layout,New,10.5
+482,Volvo,XC60 Momentum,2019,Diesel,60000,Hebbal,Moderate,39.5
+483,Ford,Endeavour Titanium Plus 2.0 4x4 AT,2020,Diesel,39000,Hebbal,Moderate,32.0
+484,Audi,Q3 35 TDI Premium Plus + Sunroof,2016,Diesel,92000,Hebbal,Old,16.75
+485,Hyundai,Creta 1.6 SX Plus Special Edition,2016,Diesel,96000,Anand Nagar,Old,10.45
+486,Hyundai,Creta SX (O) 1.4 Turbo 7 DCT,2020,Petrol,74000,Anand Nagar,Moderate,15.95
+487,Mahindra,XUV500 W6,2014,Diesel,104000,Anand Nagar,Old,7.75
+488,Maruti Suzuki,Swift VDi,2019,Diesel,72000,Hebbal,Moderate,7.65
+489,Ford,EcoSport Titanium 1.5 TDCi,2014,Diesel,89000,Hebbal,Old,6.35
+490,Jaguar,XF 2.2 Diesel,2013,Diesel,77000,Hebbal,Old,18.45
+491,Toyota,Fortuner 2.8 4x2 MT,2018,Diesel,145000,Hebbal,Moderate,30.83
+492,Toyota,Innova Crysta 2.4 ZX 7 STR,2021,Diesel,123000,Hebbal,Moderate,24.95
+493,Maruti Suzuki,Celerio ZXi AMT,2017,Petrol,58000,Anand Nagar,Moderate,5.25
+494,Hyundai,Grand i10 Asta AT 1.2 Kappa VTVT (O),2016,Petrol,30000,Anand Nagar,Old,5.95
+495,Hyundai,Creta SX Plus 1.6 CRDI,2017,Diesel,94000,Anand Nagar,Moderate,11.75
+496,Skoda,Kushaq Style 1.5L TSI DSG,2021,Petrol,25113,Adugodi,Moderate,15.28
+497,Mahindra,XUV500 W8,2013,Diesel,153000,Anand Nagar,Old,6.75
+498,Hyundai,Verna SX 1.5 MPi,2022,Petrol,40000,Anand Nagar,New,11.25
+499,BMW,X3 xDrive 20d Expedition,2015,Diesel,97000,Adugodi,Old,24.49
+500,Volkswagen,T-Roc 1.5 TSI,2020,Petrol,37000,Adugodi,Moderate,19.45
+501,BMW,X7 xDrive40i M Sport,2020,Petrol,30000,Hebbal,Moderate,95.0
+502,Maruti Suzuki,Vitara Brezza VDi (O),2017,Diesel,122000,Anand Nagar,Moderate,8.25
+503,Mercedes-Benz,GLS 350 d,2019,Diesel,49000,Hebbal,Moderate,69.5
+504,Hyundai,Grand i10 Asta AT 1.2 Kappa VTVT,2014,Petrol,81000,Anand Nagar,Old,5.25
+505,Mercedes-Benz,SLK-Class SLK 350,2011,Petrol,30000,Hebbal,Old,33.0
+506,Volkswagen,Polo GT TSI,2016,Petrol,35000,BTM Layout,Old,8.25
+507,Mahindra,XUV500 W10 AWD AT,2016,Diesel,139000,Anand Nagar,Old,11.75
+508,BMW,3 Series GT 320d Luxury Line,2015,Diesel,109435,Adugodi,Old,20.86
+509,Volvo,XC40 D4 R-Design,2019,Diesel,38873,Adugodi,Moderate,34.34
+510,Mercedes-Benz,C-Class C 220 CDI Avantgarde,2017,Diesel,81000,Hebbal,Moderate,28.25
+511,Volkswagen,Polo GT TSI,2021,Petrol,48000,Anand Nagar,Moderate,11.45
+512,Mercedes-Benz,GLE 250 d,2019,Diesel,81000,Hebbal,Moderate,44.25
+513,Hyundai,Elite i20 Asta 1.2,2017,Petrol,53172,Anand Nagar,Moderate,7.5
+514,Porsche,Macan S,2021,Petrol,39000,Hebbal,Moderate,68.75
+515,Audi,Q5 2.0 TFSI quattro,2010,Petrol,72000,Hebbal,Old,10.5
+516,Mercedes-Benz,C-Class 200 CGI Avantgarde,2011,Petrol,104000,Hebbal,Old,9.0
+517,Honda,City VX CVT,2018,Petrol,72141,BTM Layout,Moderate,8.95
+518,Hyundai,Creta SX Plus 1.6  Petrol,2018,Petrol,40000,Hebbal,Moderate,10.75
+519,Maruti Suzuki,Baleno Alpha Automatic,2020,Petrol,57000,Anand Nagar,Moderate,8.45
+520,Maruti Suzuki,Baleno Zeta,2019,Petrol,23518,Anand Nagar,Moderate,7.85
+521,Toyota,Innova Crysta 2.4 G 8 STR,2021,Diesel,54000,Hebbal,Moderate,23.75
+522,Audi,A6 35 TDI Matrix,2016,Diesel,63000,Hebbal,Old,23.75
+523,Hyundai,Creta 1.6 S Petrol,2016,Petrol,45000,Anand Nagar,Old,9.25
+524,Volkswagen,Polo GT TSI,2017,Petrol,55549,BTM Layout,Moderate,8.5
+525,Hyundai,i20 Sportz 1.2,2014,Petrol,85000,Anand Nagar,Old,4.5
+526,Honda,City 1.5 S MT,2011,Petrol,92000,Anand Nagar,Old,4.25
+527,Volkswagen,Jetta 1.9L TDI,2009,Diesel,61000,Adugodi,Old,4.9
+528,Honda,City 4th Generation V Petrol,2017,Petrol,115000,Adugodi,Moderate,6.5
+529,Mercedes-Benz,GLS 350 d,2019,Diesel,59000,BTM Layout,Moderate,74.75
+530,Audi,Q3 35 TDI quattro Premium Plus,2019,Diesel,51000,Hebbal,Moderate,31.9
+531,BMW,X5 xDrive30d xLine,2020,Diesel,42756,Adugodi,Moderate,74.74
+532,Skoda,Kodiaq L&K 2.0 TDI 4x4 AT,2019,Diesel,70000,Adugodi,Moderate,27.75
+533,Hyundai,Venue SX 1.0 Turbo iMT,2022,Petrol,18000,Anand Nagar,New,13.25
+534,Kia,Seltos GTX Plus AT 1.5 Diesel,2020,Diesel,58546,Singasandra,Moderate,16.75
+535,Mercedes-Benz,GLE Coupe 43 AMG 4Matic 2016,2016,Petrol,51000,Adugodi,Old,59.59
+536,Honda,Amaze 1.2 EX i-VTEC,2014,Petrol,50911,Singasandra,Old,4.45
+537,Tata,Nexon XM,2019,Petrol,57635,Singasandra,Moderate,6.99
+538,Maruti Suzuki,XL6 Zeta MT Petrol,2023,Petrol,15546,Singasandra,New,12.25
+539,Land Rover,Discovery Sport SE,2017,Diesel,31282,Adugodi,Moderate,39.39
+540,Hyundai,Elite i20 Asta 1.2,2018,Petrol,109000,Anand Nagar,Moderate,7.5
+541,Honda,Jazz VX Petrol,2017,Petrol,89000,Anand Nagar,Moderate,6.95
+542,Audi,e-tron 55,2022,Electric,2856,Adugodi,New,72.72
+543,Maruti Suzuki,Swift ZXi AMT,2018,Petrol,29716,Banaswadi,Moderate,7.03
+544,Honda,Amaze 1.2 V MT Petrol,2020,Petrol,31000,Anand Nagar,Moderate,8.5
+545,Hyundai,i20 Active 1.2 SX,2017,Petrol,92000,Anand Nagar,Moderate,7.25
+546,Hyundai,i20 Sportz 1.2 BS-IV,2013,Petrol,122000,Anand Nagar,Old,4.45
+547,Mercedes-Benz,GLE 350 d,2017,Diesel,89000,Adugodi,Moderate,43.43
+548,Hyundai,Tucson GL 2WD AT Petrol,2017,Petrol,86000,Adugodi,Moderate,13.85
+549,Mercedes-Benz,S-Class 350 CDI L,2012,Diesel,99000,Adugodi,Old,17.25
+550,Kia,Seltos HTK 1.5 Diesel,2020,Diesel,51041,Basapura,Moderate,11.52
+551,Volkswagen,Taigun Topline 1.0 TSI MT,2021,Petrol,97554,Basapura,Moderate,11.75
+552,Kia,Seltos GTX Plus 1.5 Diesel AT,2022,Diesel,28064,Basapura,New,17.98
+553,Tata,Safari XZA Plus,2022,Diesel,15681,Basapura,New,22.47
+554,Skoda,Kushaq Style 1.5L TSI DSG (6 Airbags),2022,Petrol,20282,Basapura,New,17.9
+555,Kia,Seltos GTX Plus 1.4 DCT,2019,Petrol,29077,Basapura,Moderate,14.71655
+556,Tata,Harrier XZA Plus Dual Tone,2022,Diesel,32613,Basapura,New,18.16
+557,Hyundai,Creta SX 1.6 AT CRDi,2019,Diesel,75395,Basapura,Moderate,11.6631
+558,Kia,Sonet GTX Plus 1.0 iMT,2020,Petrol,31141,Basapura,Moderate,10.97606
+559,MG,Hector Sharp 2.0 Diesel,2019,Diesel,49559,Basapura,Moderate,14.47
+560,Kia,Sonet GTX Plus 1.0 DCT,2020,Petrol,33714,Basapura,Moderate,10.92435
+561,MG,Hector Sharp 2.0 Diesel Dual Tone,2020,Diesel,63301,Basapura,Moderate,15.32
+562,Hyundai,Creta 1.6 SX Plus Petrol,2017,Petrol,40475,Basapura,Moderate,10.25
+563,Kia,Seltos GTX Plus 1.4 DCT,2019,Petrol,60467,Basapura,Moderate,13.81
+564,MG,Hector Smart Pro 1.5 Turbo Petrol MT,2023,Petrol,15940,Basapura,New,18.62
+565,Hyundai,Venue SX (O) 1.0 Turbo iMT,2021,Petrol,17981,Basapura,Moderate,10.94
+566,Hyundai,Venue SX Plus 1.0 Turbo DCT,2020,Petrol,22906,Basapura,Moderate,10.25
+567,Kia,Seltos GTX Plus 1.4 DCT,2019,Petrol,66007,Basapura,Moderate,13.19
+568,Tata,Nexon XZA Plus (O) Dark Edition,2021,Petrol,28606,Basapura,Moderate,11.1
+569,Hyundai,Eon Magna +,2017,Petrol,21454,Basapura,Moderate,3.81
+570,Hyundai,Grand i10 Nios Magna 1.2 Kappa VTVT,2020,Petrol,21438,Banaswadi,Moderate,5.99
+571,Toyota,Etios GD,2014,Diesel,121920,Basapura,Old,4.65
+572,Hyundai,Elite i20 Magna 1.2,2015,Petrol,74832,Basapura,Old,4.96
+573,Honda,City SV,2014,Petrol,120786,Banaswadi,Old,4.5565
+574,Maruti Suzuki,Dzire ZDi Plus,2017,Diesel,121318,Banaswadi,Moderate,6.46
+575,Hyundai,Eon D-Lite +,2013,Petrol,87007,Banaswadi,Old,2.29
+576,Honda,Jazz V Petrol,2016,Petrol,54782,Banaswadi,Old,5.68
+577,Hyundai,Elite i20 Asta 1.2 (O),2018,Petrol,81961,Banaswadi,Moderate,6.57
+578,Hyundai,Santro Sportz,2018,Petrol,44778,Banaswadi,Moderate,4.56347
+579,Hyundai,Grand i10 Asta 1.2 Kappa VTVT,2018,Petrol,91312,Banaswadi,Moderate,5.16
+580,Hyundai,Grand i10 Sportz 1.2 Kappa VTVT,2015,Petrol,73390,Banaswadi,Old,4.22
+581,Toyota,Glanza E,2022,Petrol,17969,Banaswadi,New,7.16
+582,Honda,City VX,2018,Petrol,34952,Banaswadi,Moderate,8.37617
+583,Hyundai,i10 Asta 1.2,2013,Petrol,61285,Banaswadi,Old,3.83606
+584,Maruti Suzuki,Wagon R 1.0 VXI,2017,Petrol,51725,Banaswadi,Moderate,4.18
+585,Hyundai,Grand i10 Asta AT 1.2 Kappa VTVT,2015,Petrol,47369,Banaswadi,Old,5.05
+586,Maruti Suzuki,Wagon R VXi 1.2 AMT,2019,Petrol,16416,Banaswadi,Moderate,6.09
+587,Hyundai,Elite i20 Asta 1.2,2017,Petrol,51852,Banaswadi,Moderate,6.42141
+588,Maruti Suzuki,Celerio ZXi Plus AMT,2021,Petrol,20405,Basapura,Moderate,6.45722
+589,Maruti Suzuki,Swift ZXi AMT,2019,Petrol,21955,Banaswadi,Moderate,6.83
+590,Honda,City 1.5 S MT,2012,Petrol,87836,Basapura,Old,4.58
+591,Maruti Suzuki,Ciaz ZXI+,2016,Petrol,34800,Banaswadi,Old,6.6435
+592,Maruti Suzuki,Alto 800 Vxi Plus,2021,Petrol,29878,Banaswadi,Moderate,3.96546
+593,Maruti Suzuki,Baleno Alpha 1.2,2017,Petrol,81548,Banaswadi,Moderate,6.17981
+594,Maruti Suzuki,Baleno Zeta 1.2 AT,2016,Petrol,83635,Basapura,Old,5.31
+595,Maruti Suzuki,Swift Dzire VXI,2016,Petrol,85369,Banaswadi,Old,5.49099
+596,Hyundai,Eon Era +,2013,Petrol,17366,Basapura,Old,2.68019
